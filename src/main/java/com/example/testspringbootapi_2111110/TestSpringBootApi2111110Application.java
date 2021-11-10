@@ -8,6 +8,7 @@ public class TestSpringBootApi2111110Application {
 
     public static void main(String[] args) {
         SpringApplication.run(TestSpringBootApi2111110Application.class, args);
+//        SpringApplication.run(GreetingController.class, args); // Process finished
     }
 
 }
